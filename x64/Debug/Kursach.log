@@ -1,0 +1,3 @@
+﻿  Kursach.cpp
+D:\VS\Kursach\Kursach\Kursach.cpp(137,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Kursach.vcxproj -> D:\VS\Kursach\x64\Debug\Kursach.exe
